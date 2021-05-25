@@ -1,0 +1,26 @@
+options:
+    #
+    size: 32
+    #
+    number_of_plots: 1
+    #
+    memory_buffer: 4000
+    #
+    farmer_pk:
+    #
+    pool_pk:
+    #
+    fingerprint:
+    #
+    tmp_dir: D:\Plotter
+    #
+    tmp_dir_2:
+    #
+    final_dir: E:\Plots
+    #
+    number_of_threads: 2
+    #
+    number_of_buckets:
+    #
+    bitfield_plotting: True
+
